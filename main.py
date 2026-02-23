@@ -1,7 +1,8 @@
-from _00 import exercises
+import _00
+import _01
 
 def main():
-    exercises.execute()
+    _01.lecture.execute()
 
 
 if __name__ == "__main__":

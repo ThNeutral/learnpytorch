@@ -1,11 +1,11 @@
 [project]
-name = "torch"
+name = "torch-learning"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "torch",
-    "torchvision",
-    "torchaudio",
+    "matplotlib>=3.10.8",
+    "torch>=2.10.0",
+    "torchvision>=0.25.0",
 ]
