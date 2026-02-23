@@ -1,2 +1,2 @@
 from . import lecture
-from . import exercises
+from . import exercise

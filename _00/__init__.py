@@ -1,1 +1,1 @@
-from . import exercises
+from . import exercise
