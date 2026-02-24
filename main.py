@@ -3,7 +3,7 @@ import _01
 import _02
 
 def main():
-    _02.lecture.execute()
+    _02.model1.execute()
 
 
 if __name__ == "__main__":
