@@ -1,0 +1,22 @@
+{
+	"include": [
+		"_00",
+		"_01",
+		"_02",
+		"_03",
+		"_04",
+		"_helpers",
+		"main.py"
+	],
+	"exclude": [
+		"**/__pycache__",
+		"**/*.pyc",
+		".venv",
+		"data"
+	],
+	"typeCheckingMode": "basic",
+	"reportMissingImports": true,
+	"reportMissingTypeStubs": false,
+	"pythonVersion": "3.11",
+	"pythonPlatform": "Linux"
+}
