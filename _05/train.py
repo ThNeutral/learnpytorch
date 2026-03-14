@@ -1,6 +1,6 @@
 import os
 import torch
-from . import dataloaders, engine, model_builder, utils
+from . import dataloaders, engine, model, utils
 
 from torchvision import transforms
 
