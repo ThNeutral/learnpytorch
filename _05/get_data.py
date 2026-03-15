@@ -10,7 +10,6 @@ image_path = data_path / "pizza_steak_sushi"
 # If the image folder doesn't exist, download it and prepare it... 
 if image_path.is_dir():
     print(f"{image_path} directory exists.")
-    exit(0)
 else:
     print(f"Did not find {image_path} directory, creating one...")
     image_path.mkdir(parents=True, exist_ok=True)
